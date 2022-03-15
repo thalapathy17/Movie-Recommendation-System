@@ -34,10 +34,3 @@ Autoencoder is an unsupervised artificial neural network that learns how to effi
 A restricted Boltzmann machine is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs. 
 
 <img height = "300" width = "500" src = "https://miro.medium.com/max/1760/1*ZY4c980_7MfEMYTIi6jvTw.png"/>
-
-## For data and explanation of code, visit to my blogging website - https://capablemachine.com/
-
-### Blog:-
-Build your own Movie Recommendation Engine using Word Embedding
-- https://capablemachine.com/2020/06/23/build-your-own-recommendation-engine-using-word2vec-model/
-- https://medium.com/@sarangdeshmukh783/word-embedding-movie-recommendation-system-2ffdce9d323f
